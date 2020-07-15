@@ -36,7 +36,7 @@ Here are some (good as well as bad) examples:
 ('ägypte', 0.73614293),\
 ('grossbritannie', 0.73122436)
 
-## bad examples
+## Bad examples
 
 ### bild
 
